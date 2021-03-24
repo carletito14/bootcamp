@@ -7,7 +7,7 @@ function App() {
     
     <div className="App">
       <Mensaje size='24px' color='red' message='Estamos trabajando' />
-      <Mensaje color='green' message='En un curso' />
+      <Mensaje color='green' message='En un curso avanzado' />
       <Mensaje color='yellow' message='De React' />
       
     </div>
